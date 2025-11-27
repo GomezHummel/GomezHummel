@@ -10,7 +10,7 @@ I'm a computer science student and aspiring software engineer. I enjoy building 
 ⭐ Analyze NBA rookie stats and uncover hidden gems!  
 - Sort and search players by combine stats: Three-Point %, Defensive Rating, and more  
 - Ideal for scouts and basketball enthusiasts  
-- **Tech:** Python, JavaScript  
+- **Tech:** Python, JavaScript, SQL, Flask  
 
 [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge)](https://github.com/GomezHummel/RookieProspectAnalyzer-2022)
 
